@@ -1,0 +1,19 @@
+img {
+    height: 400px;
+    
+}
+body {
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJUl0z1w7hhlU6CVouAZhMBpNEwO3LXfQ4A&s);
+}
+p {
+    font-size: 20px;
+}
+button {
+    height: 60px;
+    width: 100px;
+    color: deepskyblue;
+}
+h1 {
+    text-align: center;
+}

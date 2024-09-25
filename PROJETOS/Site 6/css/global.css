@@ -1,0 +1,54 @@
+.menu {
+    height: 200px;
+    width: 100%;
+}
+       
+.principal h1{
+    font-size: 75px;
+    font-family: 'American Kestrel', sans-serif;
+    font-family: 'American Kestrel 3D', sans-serif;
+    font-family: 'American Kestrel Gradient', sans-serif;
+    font-family: 'American Kestrel Halftone', sans-serif;
+    font-family: 'American Kestrel Laser', sans-serif;
+    font-family: 'American Kestrel Semi-Straight', sans-serif;
+    font-family: 'American Kestrel Straight', sans-serif;
+    font-family: 'American Kestrel Straight 3D', sans-serif;
+    font-family: 'American Kestrel Straight Grad', sans-serif;
+    font-family: 'American Kestrel Straight Half', sans-serif;
+    font-family: 'American Kestrel Straight Laser', sans-serif;
+    font-family: 'American Kestrel Condensed', sans-serif;
+    font-family: 'American Kestrel Expanded', sans-serif;
+    font-family: 'American Kestrel Italic', sans-serif;
+    font-family: 'American Kestrel Leftalic', sans-serif;
+    font-family: 'American Kestrel Straight Cond', sans-serif;
+    font-family: 'American Kestrel Straight Exp', sans-serif;
+    margin-top: 10px;       
+    margin-left: -275px; 
+}
+.principal h2{
+    font-family: 'GIRAFL', sans-serif;
+    margin-top: 110px;       
+    margin-left: -275px;   
+    font-size: 50px;                                 
+}
+.rodape {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.tabela {
+    height: 200px;
+    width: 1000px;
+    background-color: #3a6ea5;
+    border-radius: 30px;
+    margin-top: 3px;
+}
+.formulario {
+    height: 200px;
+    width: 1000px;
+    background-color: #3a6ea5;
+    border-radius: 30px;
+    margin-top: 3px;
+    margin-left: 3px;
+
+}

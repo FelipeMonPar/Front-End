@@ -1,0 +1,18 @@
+img {
+    height: 500px;
+    position: relative; top: 200px; left: 1000px;
+    border-radius: 30px;
+}
+.post {
+    margin-top: -350px;
+    margin-left: 2%;
+    font-family: sans-serif;
+    
+    
+}
+.man {
+    font-family: sans-serif;
+    margin-left: 40px;
+    font-size: larger;
+    
+}
